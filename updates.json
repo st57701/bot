@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 944190502,
+      "message": {
+        "message_id": 6,
+        "from": {
+          "id": 338192078,
+          "is_bot": false,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 338192078,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "type": "private"
+        },
+        "date": 1576659159,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 944190503,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 338192078,
+          "is_bot": false,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 338192078,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "type": "private"
+        },
+        "date": 1576669545,
+        "text": "Hi"
+      }
+    },
+    {
+      "update_id": 944190504,
+      "message": {
+        "message_id": 10,
+        "from": {
+          "id": 338192078,
+          "is_bot": false,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 338192078,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "type": "private"
+        },
+        "date": 1576669768,
+        "text": "!getupdates"
+      }
+    },
+    {
+      "update_id": 944190505,
+      "message": {
+        "message_id": 11,
+        "from": {
+          "id": 338192078,
+          "is_bot": false,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 338192078,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "type": "private"
+        },
+        "date": 1576670074,
+        "text": "Dom"
+      }
+    },
+    {
+      "update_id": 944190506,
+      "message": {
+        "message_id": 13,
+        "from": {
+          "id": 338192078,
+          "is_bot": false,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 338192078,
+          "first_name": "Fallin",
+          "last_name": "Fall",
+          "username": "fallinlave",
+          "type": "private"
+        },
+        "date": 1576691366,
+        "text": "Dom"
+      }
+    }
+  ]
+}
